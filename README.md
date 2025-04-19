@@ -1,4 +1,4 @@
-<h1>Hi, I'm Avez.</h1> I write code, but mostly I copy-paste from ChatGPT and pray it works.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
 
