@@ -1,3 +1,6 @@
+h1>Avez's Code Repository</h1>
+
+<p>Welcome! I'm <strong>Avez</strong>, a coder who loves to explore, but sometimes the best way to get things done is to <strong>copy-paste</strong> some code, with a little help from <strong>ChatGPT</strong>. I mostly pray it works!</p> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
