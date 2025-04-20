@@ -1,11 +1,11 @@
 <h1>Hi,👋🏻 I'm Avez.</h1>
 
-![badge](https://server-svg.onrender.com/badge.svg?v=1234567890)
 
 
 
 <p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
-
+## 🚀 Moje projekty:
+![badge](https://server-svg.onrender.com/badge.svg?v=1234567890)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
 
@@ -16,8 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=avezx&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avezx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avezx&icon=3&color=6)](https://visitcount.itsvg.in)
