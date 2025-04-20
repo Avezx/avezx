@@ -2,7 +2,7 @@
 
 
 
-![ostatnie projekty](https://server-svg.onrender.com/badge.svg)
+
 
 <p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
 
