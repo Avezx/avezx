@@ -3,7 +3,7 @@
 <p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
 
 # 🚀 Moje projekty:
-![badge](https://server-svg.onrender.com/badge.svg?v=120489390)
+![badge](https://server-svg.onrender.com/badge.svg?v=122489390)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
