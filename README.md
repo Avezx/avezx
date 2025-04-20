@@ -1,6 +1,6 @@
 <h1>Hi,👋🏻 I'm Avez.</h1>
 
-![badge](https://yourserver.com/badge.svg?v=${new Date().getTime()})
+![badge](https://server-svg.onrender.com/badge.svg?v=1234567890)
 
 
 
