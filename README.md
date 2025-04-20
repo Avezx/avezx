@@ -1,4 +1,4 @@
-<h1>Hi,👋🏻 I'm Avez.</h1>
+<h1>Hi 👋🏻, I'm Avez.</h1>
 
 <p> I don't promise gold. I promise code that runs. Sometimes.
 </p> 
