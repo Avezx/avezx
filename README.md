@@ -1,5 +1,8 @@
 <h1>Hi,👋🏻 I'm Avez.</h1>
 
+
+👉 [Zobacz ostatnie commity i projekty](https://server-svg.onrender.com)
+
 <p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
 
 ## 🌐 Socials:
