@@ -1,6 +1,7 @@
 <h1>Hi,👋🏻 I'm Avez.</h1>
 
-<p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
+<p> I don't promise gold. I promise code that runs. Sometimes.
+</p> 
 
 # 🚀 Moje projekty:
 ![badge](https://server-svg.onrender.com/badge.svg?v=122489391)
