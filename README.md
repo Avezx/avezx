@@ -1,11 +1,10 @@
 <h1>Hi,👋🏻 I'm Avez.</h1>
 
-
-
-
 <p>I write code, but mostly I copy-paste from ChatGPT and pray it works.</p> 
-## 🚀 Moje projekty:
+
+# 🚀 Moje projekty:
 ![badge](https://server-svg.onrender.com/badge.svg?v=1234567890)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
 
