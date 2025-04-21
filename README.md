@@ -1,4 +1,5 @@
-<h1>There are two kinds of people: those who document their code, and me.</h1>
+l## Avez
+Probably made this at 3AM. It somehow works.
 
 <p> I don't promise gold. I promise code that runs. Sometimes.
 </p> 
