@@ -1,4 +1,4 @@
-<h1>There are two kinds of people in this repo: the one who caused the bug, and the one reading this. Welcome.</h1>
+<h1>There are two kinds of people: those who document their code, and me.</h1>
 
 <p> I don't promise gold. I promise code that runs. Sometimes.
 </p> 
