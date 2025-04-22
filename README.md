@@ -1,8 +1,5 @@
 # Avez
-## Probably made this at 3AM. It somehow works.
 
-<p> I don't promise gold. I promise code that runs. Sometimes.
-</p> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
