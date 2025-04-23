@@ -1,4 +1,4 @@
-[![profile](https://profile-card-dnsg.onrender.com/badge.svg)]
+[![profile](https://profile-card-dnsg.onrender.com/badge.svg?v=52419399)]
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avezikowo) 
 
